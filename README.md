@@ -25,8 +25,7 @@
 
 [![](https://img.shields.io/badge/-Chrome%20Extension-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=white)](https://chrome.google.com/webstore?hl=en) [![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)](https://kubernetes.io/) [![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
 
-[![](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=Neo4j&logoColor=white)](https://neo4j.com/) [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/) [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/) [![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
-
+[![](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=Neo4j&logoColor=white)](https://neo4j.com/) [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/) [![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/) [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
 ### My Recent Work
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=q815101630&hide=html&layout=compact&theme=dracula)](https://github.com/q815101630)
