@@ -32,3 +32,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=q815101630&hide=html&layout=compact&theme=dracula)](https://github.com/q815101630)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=q815101630&count_private=true&show_icons=true&theme=dracula&hide=stars)](https://github.com/q815101630)
+
+ <!-- waka-box start -->
+ <!-- waka-box end -->
