@@ -13,7 +13,7 @@
 
 ### I love to work with
 
-[![img](https://img.shields.io/badge/OS-Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://ubuntu.com/) [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11) [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/Note%20Editor-Notion-000000?style=flat-square&logo=Notion&logoColor=ffffff)](https://notion.so/)
+[![img](https://img.shields.io/badge/Linux-Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://ubuntu.com/) [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11) [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/Note%20Editor-Notion-000000?style=flat-square&logo=Notion&logoColor=ffffff)](https://notion.so/)
 
 ### I like these Languages /  Framework /  Tools
 
