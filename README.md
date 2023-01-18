@@ -6,7 +6,7 @@
 ### Hi there 👋, I am Lucheng, you can also call me Hugh.
 
 - 🔭 I’m currently a UIUC student
-- 🌱 I’m currently learning Microservice, Nest.js, Kubernetes
+- 🌱 I’m currently learning CUDA, OCamel, Cloud Computing
 - 🐼 Visit my personal website at: https://lucheng.xyz
 - 📫 How to reach me: lqing3@illinois.edu
 - 😄 Pronouns: He/His/Him
