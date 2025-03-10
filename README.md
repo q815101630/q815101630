@@ -5,10 +5,10 @@
 
 ### Hi there 👋, I am Lucheng, you can also call me Hugh.
 
-- 🔭 I was a UIUC student
+- 🔭 I was a UIUC student, currently working in a tech company
 - 🌱 I was learning CUDA, OCamel, Cloud Computing
-- 🐼 Visit my personal website at: https://lucheng.online
-- 📫 How to reach me: lqing3@illinois.edu
+- 🐼 Visit my website at: https://lucheng.online
+- 📫 How to reach me: hughqing@qq.com
 - 😄 Pronouns: He/His/Him
 
 ### I love to work with
